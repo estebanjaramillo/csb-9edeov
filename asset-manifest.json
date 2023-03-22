@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://estebanjaramillo.github.io/csb-9edeov/static/css/main.40f4a4d3.chunk.css",
+    "main.js": "https://estebanjaramillo.github.io/csb-9edeov/static/js/main.ca1b07c0.chunk.js",
+    "main.js.map": "https://estebanjaramillo.github.io/csb-9edeov/static/js/main.ca1b07c0.chunk.js.map",
+    "runtime-main.js": "https://estebanjaramillo.github.io/csb-9edeov/static/js/runtime-main.26ea774e.js",
+    "runtime-main.js.map": "https://estebanjaramillo.github.io/csb-9edeov/static/js/runtime-main.26ea774e.js.map",
+    "static/css/2.126baa6d.chunk.css": "https://estebanjaramillo.github.io/csb-9edeov/static/css/2.126baa6d.chunk.css",
+    "static/js/2.e3193226.chunk.js": "https://estebanjaramillo.github.io/csb-9edeov/static/js/2.e3193226.chunk.js",
+    "static/js/2.e3193226.chunk.js.map": "https://estebanjaramillo.github.io/csb-9edeov/static/js/2.e3193226.chunk.js.map",
+    "index.html": "https://estebanjaramillo.github.io/csb-9edeov/index.html",
+    "static/css/2.126baa6d.chunk.css.map": "https://estebanjaramillo.github.io/csb-9edeov/static/css/2.126baa6d.chunk.css.map",
+    "static/css/main.40f4a4d3.chunk.css.map": "https://estebanjaramillo.github.io/csb-9edeov/static/css/main.40f4a4d3.chunk.css.map",
+    "static/js/2.e3193226.chunk.js.LICENSE.txt": "https://estebanjaramillo.github.io/csb-9edeov/static/js/2.e3193226.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26ea774e.js",
+    "static/css/2.126baa6d.chunk.css",
+    "static/js/2.e3193226.chunk.js",
+    "static/css/main.40f4a4d3.chunk.css",
+    "static/js/main.ca1b07c0.chunk.js"
+  ]
+}
